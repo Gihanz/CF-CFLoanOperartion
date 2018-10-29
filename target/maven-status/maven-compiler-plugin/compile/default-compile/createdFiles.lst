@@ -1,0 +1,5 @@
+com\cf\sl\mk\connector\connector\CECUtil.class
+com\cf\sl\mk\CFLoanOperartion\CFOperations.class
+com\cf\sl\mk\connector\connector\PEConnector.class
+com\cf\sl\mk\connector\util\PropertyReader.class
+com\cf\sl\mk\connector\connector\DocumentUtil.class

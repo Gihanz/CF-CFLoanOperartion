@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4/mail-1.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.15/log4j-1.2.15.jar" sourcepath="M2_REPO/log4j/log4j/1.2.15/log4j-1.2.15-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sl/mk/cf/PDFGenerator/0.0.1-SNAPSHOT/PDFGenerator-0.0.1-SNAPSHOT.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/json/json/20180130/json-20180130.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6.jar" sourcepath="M2_REPO/com/itextpdf/itextpdf/5.0.6/itextpdf-5.0.6-sources.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/JSON4J_Apache/5.2.0/JSON4J_Apache-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/Jace/5.2.0/Jace-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/xlxpScanner/5.2.0/xlxpScanner-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/xlxpScannerUtils/5.2.0/xlxpScannerUtils-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/pe/5.2.0/pe-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/pe3pt/5.2.0/pe3pt-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/peResources/5.2.0/peResources-5.2.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.2/commons-logging-1.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.9/commons-codec-1.9.jar"/>
+</classpath>
